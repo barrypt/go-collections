@@ -1,3 +1,3 @@
-module github.com/barrypt/go-collections/v2/v3
+module github.com/barrypt/go-collections/v3
 
 go 1.21.0
